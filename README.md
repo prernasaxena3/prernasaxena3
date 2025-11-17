@@ -5,7 +5,7 @@ I'm a **B.Tech Computer Science graduate** passionate about **web development, p
 ---
 
 ## 💻 About Me
-- 🎓 B.Tech in CSE (Guru Tegh Bahadur Institute of Technology, 2021–2025)  
+- 🎓 B.Tech in CSE (Guru Tegh Bahadur Institute of Technology, 2021-2025)  
 - 🌱 Exploring **full-stack web development** & **AI integrations**  
 - 👩‍💻 Strong in **C++, JavaScript, React, HTML, CSS, MySQL, OOP, DSA**  
 - 🏆 5-star ratings in **HackerRank C++ & Problem Solving**  
@@ -28,13 +28,13 @@ OOP, DSA, Problem Solving, Agile Development, Teamwork, Leadership
 
 ## 🚀 Projects
 
-### **Mirai – AI-Powered Productivity & Career Platform**
+### **Mirai - AI-Powered Productivity & Career Platform**
 - React frontend with **TailwindCSS & Material UI**  
 - Features: Task manager, Pomodoro timer, AI interview prep, reminders  
 - Integrated **Google Generative AI** & Gemini API for dynamic responses  
 - [GitHub Repo](#) | [Live Demo](#)
 
-### **Kaamya – Task Management & Productivity App**
+### **Kaamya - Task Management & Productivity App**
 - Full-stack React app with secure backend  
 - Features: Schedule management, AI task suggestions  
 - [GitHub Repo](#) | [Live Demo](#)
@@ -63,4 +63,4 @@ OOP, DSA, Problem Solving, Agile Development, Teamwork, Leadership
 ---
 
 ## ⚡ Fun Fact
-I believe coding is like solving a puzzle – and I love challenges that make me think outside the box! 🧩
+I believe coding is like solving a puzzle and I love challenges that make me think outside the box! 🧩
