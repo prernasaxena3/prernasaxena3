@@ -56,7 +56,7 @@ OOP, DSA, Problem Solving, Agile Development, Teamwork, Leadership
 ---
 
 ## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrernaSaxena-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prernasaxena3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrernaSaxena-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerna-saxena3/)  
 [![GitHub](https://img.shields.io/badge/GitHub-prernasaxena3-black?logo=github&logoColor=white)](https://github.com/prernasaxena3)  
 📧 Email: `prernasaxena64859@gmail.com`  
 
